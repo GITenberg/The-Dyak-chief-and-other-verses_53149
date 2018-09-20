@@ -1,5 +1,8 @@
 _repo: The-Dyak-chief-and-other-verses_53149
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53149-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Erwin Clarkson
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '40581'
     url: http://www.gutenberg.org/2009/agents/40581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53149#The-Dyak-chief-and-other-verses
 gutenberg_issued: '2016-09-26'
 gutenberg_type: Text
 identifiers:
