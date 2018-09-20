@@ -1,0 +1,24 @@
+_repo: The-Dyak-chief-and-other-verses_53149
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Erwin Clarkson
+    birthdate: 1879
+    deathdate: 1954
+    gutenberg_agent_id: '40581'
+    url: http://www.gutenberg.org/2009/agents/40581
+description: ''
+gutenberg_issued: '2016-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The Dyak chief, and other verses
+url: http://www.gutenberg.org/ebooks/53149
